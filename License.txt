@@ -1,0 +1,39 @@
+User Agreement
+03.10.2019
+
+1. General Provisions
+1.1. This User Agreement (hereinafter referred to as the "Agreement") governs the use of the software "Win 10 Tweaker" (hereinafter referred to as the "Software" or "Program") by IP Avanesyan Khachatur Sergeevich, the copyright holder of the exclusive rights to the Software (hereinafter referred to as the "Copyright Holder"), and the individual or legal entity that downloads and uses the Software (hereinafter referred to as the "User").
+1.2. By downloading, copying, or using the Software in any way, the User expresses their unconditional and full agreement to all the terms of this Agreement. The User's start of using the Software signifies their agreement to enter into this Agreement on the terms stated in this document.
+1.3. The use of the Software is only permitted on the terms of this Agreement. If the User does not fully accept the terms of the Agreement, the User is not entitled to use the Software for any purpose. The use of the Software in violation (non-performance) of any of the terms of the Agreement is prohibited. Violation of the Agreement results in restriction of the Software's operation on the User's device.
+1.4. This Agreement may be unilaterally amended by the Copyright Holder without any special notice, and the new version comes into effect from the moment of its publication on the web page: https://win10tweaker.ru/agreement.
+1.5. This Agreement and all relationships related to the use of the Software are governed by the laws of the Russian Federation, and any claims or legal actions arising from the relationship under this Agreement or the use of the Software must be filed and considered in the court at the location of the Copyright Holder. Compliance with the pre-trial settlement procedure for dispute resolution is mandatory.
+1.6. The official version of this Agreement is the Russian language version. The Copyright Holder may provide the User with a translation of this Agreement from Russian into other languages, but in the event of a contradiction between the terms of the Agreement in Russian and its translation, the Russian language version of the Agreement shall prevail.
+1.7. If any part of this Agreement is deemed legally ineffective (invalid) and unenforceable, the remaining parts of the Agreement shall remain in full force and effect and shall be enforceable.
+1.8. The algorithms of the Software and its source codes (including their parts) are considered trade secrets of the Copyright Holder. Any use or misuse of the Software in violation of the terms of this Agreement is considered a violation of the Copyright Holder's rights and is sufficient cause for depriving the User of the rights granted under this Agreement.
+
+2. Rights to the Software
+The Copyright Holder holds exclusive rights to the Software.
+
+3. Use of the Software, Activation, and Activation Code
+3.1. The Copyright Holder grants the User a non-exclusive, non-transferable right to use the Software for its intended functionality.
+3.2. The Copyright Holder provides the User with the right to use all the functionality of the Software upon purchasing an Activation Code for the Software.
+3.3. The Activation Code is considered confidential information. The User is not allowed to publish or transmit the Activation Code to any third parties.
+3.4. The Activation Code for the Software is a unique identifier generated during the purchase process. A unique Activation Code allows the User to use all the functionality of the Software only on the device from which the Activation Code was purchased.
+3.5. If the User modifies, updates, or replaces their device from which they made the purchase of the Activation Code, they change the unique identifier of their device, which was previously used to generate the unique Activation Code. As a result, the User loses the Activation Code since the Software loses the connection between the Activation Code and the device for which it was generated.
+3.6. The Software includes means of control, verification, and confirmation of the User's use of the Software in accordance with this Agreement. Such means are processed by the Software, and in the event of a violation of this Agreement, the Software must transmit this data to the Copyright Holder through the available communication channels. The User is not entitled to take any actions against the use of the above-mentioned means of control, verification, and confirmation by the Copyright Holder to enforce compliance with this Agreement.
+3.7. After obtaining activation for the Software, the User has the full version of the Software, which is not subject to any refund according to the laws of the Russian Federation. Based on 1) the inability to initiate a refund procedure, 2) the impossibility of verifying the fact of the User's refusal to use the Software, 3) in accordance with the Plenum of the Supreme Court of the Russian Federation (Resolution No. 17 of 28.06.2012, which excludes "Provision of the right to use software" from goods, works, or services protected by the Law on Consumer Protection), a refund of funds after the User has obtained activation for the Software is not provided.
+
+
+4. Limitations on software usage.
+4.1. The software user is not entitled to obtain information about the implementation of algorithms used in the software, explore the software code, compress, encrypt, decrypt, or modify the software executable file, or perform any operations that affect the integrity of the software executable file. the software user may create derivative works using the software, based on the software, in whole or in part, and may also use the software for any other purpose, only with the written consent of the copyright owner.
+4.2. The user is prohibited from reproducing, duplicating, copying, renting, leasing, selling or reselling, licensing/sub-licensing, or using any part of the software for commercial purposes.
+4.3. The copyright owner may deactivate the activation code if the user violates the terms of this agreement.
+4.4. The copyright owner may deactivate the activation code without informing the user or providing reasons to the user.
+4.5. The user is prohibited from removing or modifying copyright notices or any other indications of the copyright owner on any copy of the software.
+4.6. The user is prohibited from using the software for any unauthorized or illegal purposes according to applicable laws.
+5. Other conditions
+
+5.1. The software may automatically download and install updates from time to time aimed at improving the software and may take the form of additional modules or completely new versions of the program. The user is hereby notified and agrees to the automatic update of the software, including the request, download, and installation of updates to the user's device without any additional notifications.
+5.2. Certain functions of the software can only be performed with internet access. The user independently obtains and pays for such access on the terms and rates of their communication operator or internet service provider.
+5.3. The copyright owner may provide support for the software and the user voluntarily. Depending on the user's request to the copyright owner, the copyright owner reserves the right to consider the user's request a violation of this agreement. User's requests for technical support related to the functioning of the operating system, any software downloaded or installed on the device, and other user inquiries to the copyright owner, depending on the form of contact, may be considered a violation of this agreement.
+5.4. The use of the software is only permitted after accepting the agreement by right-clicking within the program. Clicking the "Accept" button in the software with the left mouse button is a violation of this agreement.
